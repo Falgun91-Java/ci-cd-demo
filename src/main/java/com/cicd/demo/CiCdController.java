@@ -9,6 +9,6 @@ public class CiCdController {
     @GetMapping("/cicd")
     public String helloCiCd(){
 
-        return "Developing Ci Cd pipeline..";
+        return "Developing Ci Cd pipeline with automated workflow..";
     }
 }

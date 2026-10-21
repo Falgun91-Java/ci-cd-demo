@@ -10,7 +10,8 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ "cicd" ]
+    branches:
+      - cicd
 
 jobs:
   build and develop:

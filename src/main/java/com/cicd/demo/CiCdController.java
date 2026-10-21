@@ -9,6 +9,6 @@ public class CiCdController {
     @GetMapping("/cicd")
     public String helloCiCd(){
 
-        return "I am Learning CI CD pipeline right now!!";
+        return "I am Learning CI CD pipeline within my Heart Java";
     }
 }
